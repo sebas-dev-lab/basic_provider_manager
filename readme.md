@@ -23,8 +23,7 @@
                     email varchar(100) NOT NULL,
                     address varchar(300) NOT NULL
                 );
-
-       </pre>
+         </pre>
 
 >       - Ejecutar el siguiente comando:
     
