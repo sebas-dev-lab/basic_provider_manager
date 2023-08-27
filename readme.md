@@ -25,7 +25,9 @@
                 );
          </pre>
 
+
 >       - Ejecutar el siguiente comando:
+
     
 > <pre>
 >           bash install.sh DB_USER=usuario DB_PASSWORD=contraseña DB_HOST=ip/localhost DB_PORT=puerto DB_NAME=nombre de DB
