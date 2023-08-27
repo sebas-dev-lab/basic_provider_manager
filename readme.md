@@ -5,7 +5,7 @@
 > - Testeado en Linux
 > - Funcionamiento básico:
 >   - Programa demo básico que permite crear, listar, buscar y exportar en csv a proveedores (guarda nombre, email, teléfono y dirección).
->   - El usuario interactúa por consola mediante optiones.
+>   - El usuario interactúa por consola mediante opciones.
 
 > **Instalación:**
 >   - Prerequisitos:
