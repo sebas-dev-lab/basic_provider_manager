@@ -14,6 +14,18 @@
 >       - Linux - Sin testear en windows, en caso de probar en otro SO ignorar los siguientes pasos.
 >
 >   - Instalación:
+>       - Crear tabla provider_contact
+         <pre>
+                CREATE TABLE IF NOT EXISTS public.provider_contact (
+                    id SERIAL PRIMARY KEY,
+                    name varchar(50) NOT NULL,
+                    phone varchar(50) NOT NULL,
+                    email varchar(100) NOT NULL,
+                    address varchar(300) NOT NULL
+                );
+
+       </pre>
+
 >       - Ejecutar el siguiente comando:
     
 > <pre>
